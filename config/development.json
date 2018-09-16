@@ -1,0 +1,5 @@
+{
+  "name": "PZ API",
+  "mongoDB": "mongodb://localhost:27017",
+  "JWTSecret": ""
+}

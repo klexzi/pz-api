@@ -1,0 +1,5 @@
+{
+  "name": "PZ API",
+  "mongoDB": "mongoDB",
+  "JWTSecret": "pz_secret"
+}

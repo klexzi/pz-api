@@ -1,0 +1,9 @@
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 3000","level":"info"}
+{"message":"Could not connect to to database MongoNetworkError: failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]","level":"error"}
+{"level":"error"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 3000","level":"info"}
+{"message":"Could not connect to to database MongoNetworkError: failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]","level":"error"}
+{"message":"connected to Database","level":"info"}
+{"message":"listening on port 3000","level":"info"}
